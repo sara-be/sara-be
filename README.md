@@ -11,8 +11,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/sarabenaddi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarabenaddi" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sarabe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sarabe" height="30" width="40" /></a>
-  <a href="https://www.codingame.com/profile/d63a214256d6132841fb5a19c34cb1836751716" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/codingame-1.svg" alt="sarabe" height="30" width="40" /></a>
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
