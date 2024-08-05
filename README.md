@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sara Benaddi</h1>
-<h3 align="center">A passionate full-stack developer from Morocco</h3>
+<h3 align="center">A passionate junior full-stack developer from Morocco</h3>
 
 
 - 💬 Ask me about **react js, laravel**
